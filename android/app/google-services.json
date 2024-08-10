@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "334247929425",
+    "project_id": "ios-test-app-4460d",
+    "storage_bucket": "ios-test-app-4460d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334247929425:android:2414a5528246ab076dba70",
+        "android_client_info": {
+          "package_name": "com.example.ios_build_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334247929425-m67l940b042dr24hhhlbf5vpo6dju4jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASUalmYdxTUvXD8AoXqCuELAj3sJBvQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334247929425-m67l940b042dr24hhhlbf5vpo6dju4jp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334247929425-dmpppunjm4fgjt32olih4euj5db21nru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.timerApp07"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
