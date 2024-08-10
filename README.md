@@ -1,4 +1,4 @@
-# ios_build_test
+# Timer App Study
 
 A new Flutter project.
 
